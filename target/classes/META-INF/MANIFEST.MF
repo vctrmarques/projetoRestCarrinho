@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: projetoRestCarinho
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Joao Vitor
+Implementation-Vendor-Id: br.pe.joaoMarques
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/projetoRestCarrinho/
+Created-By: Maven Integration for Eclipse
+
